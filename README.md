@@ -26,5 +26,5 @@ Full Stack Developer focused on the React ecosystem with hands-on experience in 
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-silva-089b1b16a/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/william-silva-089b1b16a/](https://www.linkedin.com/in/willian-silva-089b1b16a/))
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamsilva1942@gmail.com)
