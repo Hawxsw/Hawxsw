@@ -19,12 +19,20 @@ Full Stack Developer focused on the React ecosystem with hands-on experience in 
 
 ### 📊 GitHub Stats
 
-![Willian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hawxsw&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hawxsw&layout=compact&langs_count=7&theme=dark)
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Hawxsw&theme=dark&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawxsw&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/william-silva-089b1b16a/](https://www.linkedin.com/in/willian-silva-089b1b16a/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-silva-089b1b16a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamsilva1942@gmail.com)
